@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color:  #b3b3b3;
+}
+body{
+	background-color: #ffffff;
+	color: white;
+	font-family: 'Poppins', sans-serif;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#9900cc; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+	color:black;
+	margin-bottom:30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #61122F;
+}
+.navbar-brand{
+font-size: 30px;	
+}
+
+#navbar-word{
+color:black;
+}
